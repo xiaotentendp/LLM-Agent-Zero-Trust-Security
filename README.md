@@ -23,6 +23,8 @@
    python target_env/send_task.py
 
 ## 📂 快速导航
-- [安全网关代码 (harness_env)](red_blue_demo/harness_env/security_gateway.py)
-- [外部执行器代码 (target_env)](red_blue_demo/target_env/executor.py)
-- [模拟输入通道代码 (target_env)](red_blue_demo/target_env/send_task.py)
+- [安全网关代码 (harness_env)]([red_blue_demo/harness_env/security_gateway.py](https://github.com/xiaotentendp/LLM-Agent-Zero-Trust-Security/blob/main/red_blue_demo/harness_env/security_gateway.py
+))
+- [外部执行器代码 (target_env)]([red_blue_demo/target_env/executor.py](https://github.com/xiaotentendp/LLM-Agent-Zero-Trust-Security/blob/main/red_blue_demo/target_env/executor.py
+))
+- [模拟输入通道代码 (target_env)]([red_blue_demo/target_env/send_task.py](https://github.com/xiaotentendp/LLM-Agent-Zero-Trust-Security/blob/main/red_blue_demo/target_env/send_task.py))
