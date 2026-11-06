@@ -21,3 +21,7 @@
    python harness_env/security_gateway.py
    python target_env/executor.py
    python target_env/send_task.py
+
+## 📂 快速导航
+- [安全网关代码 (harness_env)](./harness_env/security_gateway.py)
+- [外部执行器代码 (target_env)](./target_env/executor.py)
